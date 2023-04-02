@@ -1,7 +1,10 @@
-package ru.crock.java.homework.cars;
+package ru.crock.java.homework.Cars;
 
 import java.time.format.DateTimeFormatter;
 
+/**
+ * Класс легковых автомобилей
+ */
 public class Passenger extends Car{
 
     private final int numberPassengerSeats;

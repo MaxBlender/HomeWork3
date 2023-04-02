@@ -2,6 +2,9 @@ package ru.crock.java.homework.FlyingVehicles;
 
 import java.time.format.DateTimeFormatter;
 
+/**
+ * Класс бизнес-джетов
+ */
 public class BusinessJet extends FlyCar{
 
     private final String engineType;

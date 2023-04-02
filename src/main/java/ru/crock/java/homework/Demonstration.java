@@ -2,10 +2,10 @@ package ru.crock.java.homework;
 
 import ru.crock.java.homework.FlyingVehicles.BusinessJet;
 import ru.crock.java.homework.FlyingVehicles.Helicopter;
-import ru.crock.java.homework.cars.Passenger;
-import ru.crock.java.homework.cars.Truck;
-import ru.crock.java.homework.individualM.ElScooter;
-import ru.crock.java.homework.individualM.MonoWheel;
+import ru.crock.java.homework.Cars.Passenger;
+import ru.crock.java.homework.Cars.Truck;
+import ru.crock.java.homework.IndividualMobil.ElScooter;
+import ru.crock.java.homework.IndividualMobil.MonoWheel;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

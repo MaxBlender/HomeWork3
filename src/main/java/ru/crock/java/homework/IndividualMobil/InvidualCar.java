@@ -1,4 +1,4 @@
-package ru.crock.java.homework.individualM;
+package ru.crock.java.homework.IndividualMobil;
 
 import ru.crock.java.homework.Transport;
 

@@ -1,4 +1,4 @@
-package ru.crock.java.homework.cars;
+package ru.crock.java.homework.Cars;
 
 import ru.crock.java.homework.Transport;
 

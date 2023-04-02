@@ -4,7 +4,7 @@ import ru.crock.java.homework.Transport;
 
 
 /**
- * Класс летательного тс
+ * Класс летательного транспортного средства
  */
 
 public class FlyCar extends Transport {

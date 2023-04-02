@@ -2,6 +2,9 @@ package ru.crock.java.homework.FlyingVehicles;
 
 import java.time.format.DateTimeFormatter;
 
+/**
+ * Класс вертолетов
+ */
 public class Helicopter extends FlyCar{
     private final String type;
 
